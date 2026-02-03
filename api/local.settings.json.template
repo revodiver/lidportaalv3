@@ -1,0 +1,21 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "",
+    "FUNCTIONS_WORKER_RUNTIME": "node",
+    "DATABASE_SERVER": "your-server.database.windows.net",
+    "DATABASE_NAME": "your-database-name",
+    "DATABASE_USER": "your-username",
+    "DATABASE_PASSWORD": "your-password",
+    "MAIL_HOST": "smtp.office365.com",
+    "MAIL_PORT": "587",
+    "MAIL_USER": "your-email@domain.com",
+    "MAIL_PASSWORD": "your-email-password",
+    "ADMIN_EMAIL": "admin@domain.com"
+  },
+  "Host": {
+    "LocalHttpPort": 7071,
+    "CORS": "*",
+    "CORSCredentials": false
+  }
+}
